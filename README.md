@@ -17,7 +17,7 @@ To cite this material, please cite this repository, using the following DOI.
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{QAP2021PRSM,
+@article{SOS-SDP2021,
   author =        {V. Piccialli and A.M. Sudoso and A. Wiegele},
   publisher =     {INFORMS Journal on Computing},
   title =         {SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering},
