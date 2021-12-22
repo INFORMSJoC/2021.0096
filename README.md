@@ -22,7 +22,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering},
   year =          {2021},
-  doi =           {10.5281/zenodo.5798390},
+  doi =           {10.5281/zenodo.5799090},
   url =           {https://github.com/INFORMSJoC/2021.0096}
   }
 ```
