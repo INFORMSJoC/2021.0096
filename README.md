@@ -10,7 +10,22 @@ SOS-SDP is an exact algorithm based on the branch-and-bound technique for solvin
 
 ## Cite
 
-The final version of this repository, with updated bibliographical information, is available at [GitHub](https://github.com/INFORMSJoC/2021.0096).
+To cite this material, please cite this repository, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/440419971.svg)](https://zenodo.org/badge/latestdoi/440419971)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{QAP2021PRSM,
+  author =        {N. Graham, H. Hu, J. Im, X. Li and H. Wolkowicz},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering},
+  year =          {2021},
+  doi =           { 10.5281/zenodo.5798390},
+  url =           {https://github.com/INFORMSJoC/2021.0096}
+}  
+```
 
 ## Installation
 SOS-SDP calls the semidefinite programming solver [SDPNAL+](https://blog.nus.edu.sg/mattohkc/softwares/sdpnalplus/) by using the [MATLAB Engine API](https://www.mathworks.com/help/matlab/calling-matlab-engine-from-cpp-programs.html) for C++. It requires the MATLAB engine library *libMatlabEngine* and the Matlab Data Array library *libMatlabDataArray*. SOS-SDP uses the [Armadillo](http://arma.sourceforge.net/) library to handle matrices and linear algebra operations efficiently. Before installing Armadillo, first install OpenBLAS and LAPACK along with the corresponding development files.
