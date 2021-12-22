@@ -18,7 +18,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{QAP2021PRSM,
-  author =        {N. Graham, H. Hu, J. Im, X. Li and H. Wolkowicz},
+  author =        {V. Piccialli and A.M. Sudoso and A. Wiegele},
   publisher =     {INFORMS Journal on Computing},
   title =         {SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering},
   year =          {2021},
