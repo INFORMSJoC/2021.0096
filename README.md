@@ -8,6 +8,10 @@ SOS-SDP is an exact algorithm based on the branch-and-bound technique for solvin
 
 **Important: This code is being developed on an on-going basis at https://github.com/antoniosudoso/sos-sdp. Please go there if you would like to get a more recent version or would like support.**
 
+## Cite
+
+The final version of this repository, with updated bibliographical information, is available at [GitHub](https://github.com/INFORMSJoC/2021.0096).
+
 ## Installation
 SOS-SDP calls the semidefinite programming solver [SDPNAL+](https://blog.nus.edu.sg/mattohkc/softwares/sdpnalplus/) by using the [MATLAB Engine API](https://www.mathworks.com/help/matlab/calling-matlab-engine-from-cpp-programs.html) for C++. It requires the MATLAB engine library *libMatlabEngine* and the Matlab Data Array library *libMatlabDataArray*. SOS-SDP uses the [Armadillo](http://arma.sourceforge.net/) library to handle matrices and linear algebra operations efficiently. Before installing Armadillo, first install OpenBLAS and LAPACK along with the corresponding development files.
 SOS-SDP implements a configurable thread pool of POSIX threads to speed up the branch-and-bound search.
