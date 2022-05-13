@@ -4,7 +4,7 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](https://github.com/INFORMSJoC/2021.0096/blob/master/LICENSE).
 
-SOS-SDP is an exact algorithm based on the branch-and-bound technique for solving the Minimum Sum-of-Squares Clustering (MSSC) problem. This repository contains the source code used in the paper ["SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering"](). The instances used in the experiments are available at [UCI Machine Learning](https://archive.ics.uci.edu/ml/index.php) repository.
+SOS-SDP is an exact algorithm based on the branch-and-bound technique for solving the Minimum Sum-of-Squares Clustering (MSSC) problem. This repository contains the source code used in the paper ["SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering"](https://doi.org/10.1287/ijoc.2022.1166). The instances used in the experiments are available at [UCI Machine Learning](https://archive.ics.uci.edu/ml/index.php) repository.
 
 **Important: This code is being developed on an on-going basis at https://github.com/antoniosudoso/sos-sdp. Please go there if you would like to get a more recent version or would like support.**
 
