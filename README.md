@@ -10,9 +10,7 @@ SOS-SDP is an exact algorithm based on the branch-and-bound technique for solvin
 
 ## Cite
 
-To cite this material, please cite this repository, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/440419971.svg)](https://zenodo.org/badge/latestdoi/440419971)
+To cite this material, please cite [the paper](https://doi.org/10.1287/ijoc.2022.1166) and [this repository](https://doi.org/10.1287/ijoc.2022.1166.cd).
 
 Below is the BibTex for citing this version of the code.
 
@@ -22,7 +20,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {SOS-SDP: an Exact Solver for Minimum Sum-of-Squares Clustering},
   year =          {2021},
-  doi =           {10.5281/zenodo.5799090},
+  doi =           {10.1287/ijoc.2022.1166.cd},
   url =           {https://github.com/INFORMSJoC/2021.0096}
   }
 ```
